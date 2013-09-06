@@ -1,0 +1,13 @@
+target
+project/target
+project/project
+lib_managed
+[#]*[#]
+*~
+*.mark
+/server/data
+/server/config/.temp
+/server/config/.version
+/server/config/voldsys$_metadata_version_persistence
+/server/config/voldsys$_metadata_version_persistence.version
+
